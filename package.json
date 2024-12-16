@@ -1,0 +1,28 @@
+{
+  "name": "node-nucleus",
+  "version": "1.0.0",
+  "description": "CLI to init node-typescript backend with ease",
+  "main": "./bin/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "node-nucleus": "./bin/index.js"
+  },
+  "keywords": [
+    "node backend template",
+    "node typescript",
+    "node starter kit",
+    "backend template"
+  ],
+  "author": "Abhishek Vishwakarma twitter:Abhishe15350708",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "inquirer": "^11.0.1",
+    "shelljs": "^0.8.5",
+    "simple-git": "^3.26.0"
+  }
+}
