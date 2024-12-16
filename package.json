@@ -1,5 +1,5 @@
 {
-  "name": "@abhishek765/node-nucleus",
+  "name": "node-nucleus",
   "version": "1.0.0",
   "description": "CLI to init node-typescript backend with ease",
   "main": "./bin/index.js",
