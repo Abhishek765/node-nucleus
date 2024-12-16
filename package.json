@@ -11,6 +11,7 @@
     "node-nucleus": "./bin/index.js"
   },
   "keywords": [
+    "node-nucleus",
     "node backend template",
     "node typescript",
     "node starter kit",
