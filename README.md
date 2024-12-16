@@ -8,7 +8,7 @@
 npm install -g node-nucleus
 ```
 
-### Usage as CLI if installed globally
+### Usage as CLI
 
 ```bash
 node-nucleus setup <enter-your-project-name>
